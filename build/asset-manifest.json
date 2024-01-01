@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/the-data-studio.vercel.app/static/css/main.bf538fe7.css",
+    "main.js": "/the-data-studio.vercel.app/static/js/main.a5670615.js",
+    "static/media/Logo.png": "/the-data-studio.vercel.app/static/media/Logo.d8f43646f6bef94e5011.png",
+    "index.html": "/the-data-studio.vercel.app/index.html",
+    "main.bf538fe7.css.map": "/the-data-studio.vercel.app/static/css/main.bf538fe7.css.map",
+    "main.a5670615.js.map": "/the-data-studio.vercel.app/static/js/main.a5670615.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.a5670615.js"
+  ]
+}
