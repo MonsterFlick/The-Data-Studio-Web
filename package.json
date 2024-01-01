@@ -1,6 +1,7 @@
 {
   "name": "Data Studio ",
   "version": "0.1.0",
+  "homepage": "the-data-studio.vercel.app",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
